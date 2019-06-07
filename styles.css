@@ -1,0 +1,32 @@
+body {
+  background-color: #8205F0;
+  text-align: center;
+  margin-top: 60px;
+}
+
+* {
+  font-family: 'Press Start 2P';
+}
+
+.button {
+  height: 200px;
+  width: 720px;
+  font-size: 50px;
+  border: dashed 10px;
+}
+
+#disclaimer {
+  font-family: 'Lato', sans-serif;
+  font-size: 8.5px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+#hate {
+  font-family: 'Lato', sans-serif;
+  font-size: 8.5px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
